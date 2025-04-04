@@ -2,9 +2,9 @@
 #include <iostream>
 using namespace std;
 //BU KODU CALISTIRMAK ICIN TERMINALE SU KODU YAZINIZ: g++ -std=c++11 main.cpp olay.cpp -o main
-//KEREM	YÜKSEL
-//EMİR CAN TANYILDIZ
-//EMRECAN KAHVECİ
+//KEREM	YÜKSEL - 2104040034
+//EMİR CAN TANYILDIZ - 2204040177
+//EMRECAN KAHVECİ - 2204040160
 
 int main() {
     Olay olay;
