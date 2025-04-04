@@ -11,7 +11,7 @@ int main() {
     int olaySayisi = olay.getOlaySayisi();
     
 
-    for (int i = 0; i < olaySayisi; ++i) {
+    for (int i = 0; i < olaySayisi; i++) {
         olay.setOlaySuresi(); 
         int sure = olay.getOlaySuresi();
         olay.olayUret(sure, &zaman); // Her olay zamanı güncelleyerek çıktı verir
